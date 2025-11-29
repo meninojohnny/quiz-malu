@@ -5,11 +5,10 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Poppins", serif;
-    color: rgba(0, 0, 0, 0.8); 
 }
 
 body {
-    background-color: rgba(59, 130, 246, .2);
+    background-color: #121212;
     height: 100vh;
 }
 
@@ -40,7 +39,7 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: white;
+    background-color: #121212;
     margin: 20px;
     margin-top: 80px;
     border-radius: 15px;
@@ -48,7 +47,7 @@ a {
 }
 
 .app-bar {
-    background-color: #fffffff2;
+    background-color: #014f86;
     width: 100%;
     text-align: center;
     box-shadow: 0px 0px 5px rgba(73, 80, 87, .4);
@@ -59,6 +58,7 @@ a {
     font-size: 1.5rem;
     position: fixed;
     top: 0;
+    color: white
 }
 
 .btn-app-bar,
@@ -75,7 +75,7 @@ a {
 }
 
 .content-2, .content-3 {
-    background-color: rgba(59, 130, 246, .1);
+    background-color: #32627c;
     padding: 30px;
     width: 90%;
     display: flex;
@@ -88,6 +88,7 @@ a {
 .content-3 {
     display: none;
     background-color: #c2f8cb;
+    color: rgba(0, 0, 0, 0.8);
 }
 
 .pergunta {
@@ -95,6 +96,8 @@ a {
     font-weight: bold;
     display: inline-block;
     text-align: start;
+    color: rgba(255, 255, 255, 0.9);
+
 }
 
 .btn-sound {
@@ -204,7 +207,7 @@ a {
 }
 
 .btn-show, .btn-next {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: #0588c9;
     color: rgba(255, 255, 255, 0.9);
     display: none;
 }
@@ -227,7 +230,7 @@ a {
     justify-content: center;
     border-radius: 10px;
     cursor: pointer;
-    background-color: #0096c7;
+    background-color: #32627c;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -236,7 +239,7 @@ a {
 }
 
 .circle-option, .circle-option-respondido {
-    background-color: #48cae4;
+    background-color: #14405b;
     box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
     width: 50px;
     height: 50px;
@@ -246,10 +249,11 @@ a {
     border-radius: 50%;
     font-size: 1.5rem;
     font-weight: bold;
-    color: rgba(0, 0, 0, 0.6);
+    color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
 }
 
 .circle-option-respondido {
     background-color: #a4c3b2;
+    color: black;
 }
