@@ -79,15 +79,15 @@ window.verificar = function (item) {
 }
 
 window.next = async function () {
-    hiddeMain();
-    const newPergunta = {
-        pergunta: pergunta.pergunta,
-        resposta: pergunta.resposta,
-        alternativas: pergunta.alternativas,
-        respondida: true
-    };
+    // hiddeMain();
+    // const newPergunta = {
+    //     pergunta: pergunta.pergunta,
+    //     resposta: pergunta.resposta,
+    //     alternativas: pergunta.alternativas,
+    //     respondida: true
+    // };
 
-    await updatePergunta(perguntaId ,newPergunta);
+    // await updatePergunta(perguntaId ,newPergunta);
     window.location.href = "jogo.html";
 }
 
