@@ -2,6 +2,8 @@ const CACHE_NAME = "quiz-cache-v1";
 const FILES_TO_CACHE = [
   "/",
   "/index.html",
+  "/quiz.html",
+  "/jogo.html",
   "/quiz.js",
   "/style.css",
   "/perguntas.json",
