@@ -4,7 +4,9 @@ var perguntas = [];
 var count = 1;
 
 async function init() {
-    perguntas = await findPerguntas();
+    // perguntas = await findPerguntas();
+
+    perguntas = await lerJsonEMapear();
 
     adicionarAppBar();
     criarOpcoes();
@@ -35,7 +37,7 @@ function criarOpcoes() {
 
 function criarOpacaoItem(item, count) {
     if (!item.respondida) {
-        return `<a class="option-item" href="quiz.html?pergunta=${item.id}&nmr=${count}"><div class="circle-option">${count}</div></a>`;
+        return `<a class="option-item" href="quiz.html?nmr=${count}"><div class="circle-option">${count}</div></a>`;
     } else {
         return `<a class="option-item-respondido"><div class="circle-option-respondido">${count}</div></a>`;
     }
@@ -56,6 +58,19 @@ async function adicionarPergunta() {
     await addPergunta(pergunta);
 }
 
-
+async function lerJsonEMapear() {
+    try {
+        const response = await fetch("perguntas.json");
+        const jsonData = await response.json();
+        const listaDicionarios = jsonData.map(item => ({
+            pergunta: item.pergunta,
+            resposta: item.resposta
+        }));
+        return listaDicionarios;
+    } catch (error) {
+        console.error("Erro ao ler JSON:", error);
+        return [];
+    }
+}
 
 init();

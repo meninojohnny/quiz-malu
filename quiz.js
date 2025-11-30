@@ -1,22 +1,23 @@
-import { findPerguntaById, updatePergunta } from './service.js';
+import { findPerguntaById } from './service.js';
 
+var perguntas;
 var pergunta;
-var perguntaId;
 var clicked = false;
-var alternativas;
 var nmrPergunta;
 
 async function init() {
     var params = new URLSearchParams(window.location.search);
-    perguntaId = params.get('pergunta');
-    nmrPergunta = params.get('nmr');
-    pergunta = await findPerguntaById(perguntaId);
-    alternativas = pergunta.alternativas;
+    nmrPergunta = parseInt(params.get('nmr'));
+
+    perguntas = await lerJsonEMapear();
+
+    // pergunta = await findPerguntaById(perguntaId);
+
+    pergunta = perguntas[nmrPergunta - 1];
 
     adicionarAppBar();
 
     criarAlternativas();
-    showAlternativas();
     showBtnMostrar();
 
     mostrarMain();
@@ -41,41 +42,16 @@ function adicionarAppBar() {
 
 async function criarAlternativas() {
     var wordTitle = document.querySelector(".pergunta");
-    var alternatives = document.querySelector(".alternative-list");
     var resposta = document.querySelector(".resposta");
 
     wordTitle.innerHTML = pergunta.pergunta;
     resposta.innerHTML = pergunta.resposta;
-    alternatives.innerHTML = "";
-
-    if (alternativas.length > 0) {
-        alternativas.forEach(a => {
-            alternatives.innerHTML += criarAlternativaItem(a);
-        });
-    }
-}
-
-function criarAlternativaItem(item) {
-    var id = gerarId(item);
-    return `<div id=${id} onclick="verificar(id)" class="alternative-item">${item}</div>`;
 }
 
 window.mostrarResposta = function () {
     document.querySelector(".content-3").style.display = "block";
     document.querySelector(".btn-show").style.display = "none";
     document.querySelector(".btn-next").style.display = "block";
-}
-
-window.verificar = function (item) {
-    if (!clicked) {
-        var idResposta = gerarId(pergunta.resposta);
-        document.getElementById(item).style.backgroundColor = "#ff4b4b";
-        document.getElementById(item).style.color = "white";
-        document.getElementById(idResposta).style.backgroundColor = "#43c000";
-        document.getElementById(idResposta).style.color = "white";
-        clicked = true;
-        document.querySelector(".btn-next").style.display = "block";
-    }
 }
 
 window.next = async function () {
@@ -88,23 +64,26 @@ window.next = async function () {
     // };
 
     // await updatePergunta(perguntaId ,newPergunta);
-    window.location.href = "jogo.html";
+    window.location.href = `quiz.html?nmr=${nmrPergunta + 1}`;
 }
 
 function showBtnMostrar() {
-    if (alternativas.length == 0) {
-        document.querySelector(".btn-show").style.display = "block";
-    }
+    document.querySelector(".btn-show").style.display = "block";
 }
 
-function showAlternativas() {
-    if (alternativas.length == 0) {
-        document.querySelector(".alternative-list").style.display = "block";
+async function lerJsonEMapear() {
+    try {
+        const response = await fetch("perguntas.json");
+        const jsonData = await response.json();
+        const listaDicionarios = jsonData.map(item => ({
+            pergunta: item.pergunta,
+            resposta: item.resposta
+        }));
+        return listaDicionarios;
+    } catch (error) {
+        console.error("Erro ao ler JSON:", error);
+        return [];
     }
-}
-
-function gerarId(texto) {
-    return btoa(texto);
 }
 
 init();

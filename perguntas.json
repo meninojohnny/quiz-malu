@@ -1,746 +1,497 @@
 [
   {
     "pergunta": "Cite quais são os músculos que compõem o manguito rotador e descreva a ação muscular de cada um.",
-    "alternativas": [],
-    "resposta": "Supraespinhoso: abdução do ombro. Infraespinhoso: rotação externa. Subescapular: rotação interna e adução. Redondo menor: rotação externa",
-    "respondida": false
+    "resposta": "Supraespinhoso: abdução do ombro. Infraespinhoso: rotação externa. Subescapular: rotação interna e adução. Redondo menor: rotação externa"
   },
   {
     "pergunta": "Localize a articulação esternoclavicular e os ligamentos presentes.",
-    "alternativas": [],
-    "resposta": "Ligamentos: esternoclavicular: entre a incisura clavicular do manúbrio + extremidade esternal da clavícula. interclavicular: entre as clavículas, passando por cima do manúbrio. costoclavicular: entre a clavícula e a primeira costela",
-    "respondida": false
+    "resposta": "Ligamentos: esternoclavicular: entre a incisura clavicular do manúbrio + extremidade esternal da clavícula. interclavicular: entre as clavículas, passando por cima do manúbrio. costoclavicular: entre a clavícula e a primeira costela"
   },
   {
     "pergunta": "Localize a origem dos músculos extensores do punho e descreva quais são esses músculos.",
-    "alternativas": [],
-    "resposta": "Localizar o epicôndilo lateral: extensor ulnar do carpo, extensor radial longo do carpo, extensor radial curto do carpo.",
-    "respondida": false
+    "resposta": "Localizar o epicôndilo lateral: extensor ulnar do carpo, extensor radial longo do carpo, extensor radial curto do carpo."
   },
   {
     "pergunta": "Localize e descreva a vértebra mais proeminente da coluna cervical.",
-    "alternativas": [],
-    "resposta": "C7- é espinha mais longa e visível, sendo facilmente palpável, especialmente quando a cabeça é inclinada para a frente.",
-    "respondida": false
+    "resposta": "C7- é espinha mais longa e visível, sendo facilmente palpável, especialmente quando a cabeça é inclinada para a frente."
   },
   {
     "pergunta": "Localize a origem dos músculos flexores do punho e descreva quais são esses músculos.",
-    "alternativas": [],
-    "resposta": "Localizar o epicôndilo medial: flexor ulnar do carpo (+efetivo), flexor radial do carpo, palmar longo (menos efetivo).",
-    "respondida": false
+    "resposta": "Localizar o epicôndilo medial: flexor ulnar do carpo (+efetivo), flexor radial do carpo, palmar longo (menos efetivo)."
   },
   {
     "pergunta": "Localize o músculo deltoide e descreva a ação muscular de cada uma de suas porções.",
-    "alternativas": [],
-    "resposta": "fibras anteriores: flexão horizontal. fibras médias: abdução. fibras posteriores: extensão horizontal",
-    "respondida": false
+    "resposta": "fibras anteriores: flexão horizontal. fibras médias: abdução. fibras posteriores: extensão horizontal"
   },
   {
     "pergunta": "Localize o músculo bíceps braquial e demonstre o posicionamento que garante sua maior ação muscular.",
-    "alternativas": [],
-    "resposta": "Posicionamento: com antebraço supinado",
-    "respondida": false
+    "resposta": "Posicionamento: com antebraço supinado"
   },
   {
     "pergunta": "Demonstre em qual angulação de flexão, o músculo bíceps braquial se torna um supinador mais efetivo.",
-    "alternativas": [],
-    "resposta": "Em 90° Demonstração: flexione o cotovelo a 90° com a palma da mão voltada para cima e realize a supinação enquanto mantém o antebraço paralelo ao chão.",
-    "respondida": false
+    "resposta": "Em 90° Demonstração: flexione o cotovelo a 90° com a palma da mão voltada para cima e realize a supinação enquanto mantém o antebraço paralelo ao chão."
   },
   {
     "pergunta": "Localize o músculo esternocleidomastoideo e demonstre os movimentos realizados por ele.",
-    "alternativas": [],
-    "resposta": "Movimentos: rotação da cabeça para o lado oposto, inclinação e extensão.",
-    "respondida": false
+    "resposta": "Movimentos: rotação da cabeça para o lado oposto, inclinação e extensão."
   },
   {
     "pergunta": "Descreva os músculos responsáveis pela estabilização da coluna lombar.",
-    "alternativas": [],
-    "resposta": "Reto do abdome, oblíquo interno e oblíquo externo do abdome e transverso do abdome.",
-    "respondida": false
+    "resposta": "Reto do abdome, oblíquo interno e oblíquo externo do abdome e transverso do abdome."
   },
   {
     "pergunta": "Demonstre o movimento de abdução do ombro, descrevendo a participação articular em toda a amplitude de movimento.",
-    "alternativas": [],
-    "resposta": "De 0 a 60°: art glenoumeral. De 60 a 180°: art escapulotorácica.",
-    "respondida": false
+    "resposta": "De 0 a 60°: art glenoumeral. De 60 a 180°: art escapulotorácica."
   },
   {
     "pergunta": "Quais articulações compõem o complexo da cintura escapular?",
-    "alternativas": [],
-    "resposta": "Articulação esternoclavicular, Articulação acromioclavicular, Articulação glenoumeral e Articulação escaputorácica.",
-    "respondida": false
+    "resposta": "Articulação esternoclavicular, Articulação acromioclavicular, Articulação glenoumeral e Articulação escaputorácica."
   },
   {
     "pergunta": "Descreva os movimentos realizados nas articulações metacarpofalângicas.",
-    "alternativas": [],
-    "resposta": "Flexão, extensão, abdução e adução.",
-    "respondida": false
+    "resposta": "Flexão, extensão, abdução e adução."
   },
   {
     "pergunta": "Descreva e demonstre a influência do posicionamento do punho na força de flexão da articulação metacarpofalângica.",
-    "alternativas": [],
-    "resposta": "Punho em flexão: diminui a força. Punho em hiperextensão: força aumentada",
-    "respondida": false
+    "resposta": "Punho em flexão: diminui a força. Punho em hiperextensão: força aumentada"
   },
   {
     "pergunta": "Descreva os músculos responsáveis pela estabilização da coluna vertebral.",
-    "alternativas": [],
-    "resposta": "Transverso do abdome, multifidos, eretor da espinha, oblíquo interno do abdome.",
-    "respondida": false
+    "resposta": "Transverso do abdome, multifidos, eretor da espinha, oblíquo interno do abdome."
   },
   {
     "pergunta": "Realize a palpação, com os devidos comandos, do tubérculo maior do úmero.",
-    "alternativas": [],
-    "resposta": "Não há descrição da palpação no texto.",
-    "respondida": false
+    "resposta": "Não há descrição da palpação no texto."
   },
   {
     "pergunta": "Localize o músculo responsável pelos primeiros graus de abdução do ombro na articulação glenoumeral.",
-    "alternativas": [],
-    "resposta": "Músculo supraespinhoso.",
-    "respondida": false
+    "resposta": "Músculo supraespinhoso."
   },
   {
     "pergunta": "Realize a palpação da cabeça do rádio.",
-    "alternativas": [],
-    "resposta": "Palpação da cabeça do rádio enquanto o examinador efetua a rotação. Ao contrário da ulna o radio não é facilmente palpável em todo seu comprimento",
-    "respondida": false
+    "resposta": "Palpação da cabeça do rádio enquanto o examinador efetua a rotação. Ao contrário da ulna o radio não é facilmente palpável em todo seu comprimento"
   },
   {
     "pergunta": "Localize os ossos que formam a cintura escapular.",
-    "alternativas": [],
-    "resposta": "Clavícula e escápula.",
-    "respondida": false
+    "resposta": "Clavícula e escápula."
   },
   {
     "pergunta": "Realize e descreva a palpação das principais proeminências ósseas da escápula.",
-    "alternativas": [],
-    "resposta": "A = Ângulo Inferior da Escápula. B = Borda Vertebral da Escápula. C = Acrômio. D = Espinha da Escápula. E = Músculo Supra-espinal. F = Músculo Infra-espinal",
-    "respondida": false
+    "resposta": "A = Ângulo Inferior da Escápula. B = Borda Vertebral da Escápula. C = Acrômio. D = Espinha da Escápula. E = Músculo Supra-espinal. F = Músculo Infra-espinal"
   },
   {
     "pergunta": "Descreva quais músculos são ativados no movimento de flexão de tronco.",
-    "alternativas": [],
-    "resposta": "Reto do abdome, oblíquo interno e externo do abdome, transverso, psoas maior e menor e quadrado lombar.",
-    "respondida": false
+    "resposta": "Reto do abdome, oblíquo interno e externo do abdome, transverso, psoas maior e menor e quadrado lombar."
   },
   {
     "pergunta": "Qual tipo de contração e qual movimento é realizado nesse movimento? (faixa elástica presa nos pés, punho em posição neutra, sendo elevado em seguida).",
-    "alternativas": [],
-    "resposta": "Contração isotônica concêntrica: é o tipo de contração muscular no qual os músculos encurtam durante a geração de força.",
-    "respondida": false
+    "resposta": "Contração isotônica concêntrica: é o tipo de contração muscular no qual os músculos encurtam durante a geração de força."
   },
   {
     "pergunta": "Descreva em qual plano ocorrem os movimentos de flexão e extensão de cotovelo.",
-    "alternativas": [],
-    "resposta": "Plano sagital.",
-    "respondida": false
+    "resposta": "Plano sagital."
   },
   {
     "pergunta": "Quais os arcos de movimento realizados para os movimentos de pronação e supinação do cotovelo?",
-    "alternativas": [],
-    "resposta": "pronação 70° / supinação 85°.",
-    "respondida": false
+    "resposta": "pronação 70° / supinação 85°."
   },
   {
     "pergunta": "Realize a palpação do músculo trapézio e descreva a sua participação nos movimentos escapulares.",
-    "alternativas": [],
-    "resposta": "Porção superior: eleva a cintura escapular. Porção média: aduz as escápulas. Porção inferior: desloca a escápula para baixo e para dentro.",
-    "respondida": false
+    "resposta": "Porção superior: eleva a cintura escapular. Porção média: aduz as escápulas. Porção inferior: desloca a escápula para baixo e para dentro."
   },
   {
     "pergunta": "Descreva dois movimentos de cadeia cinética aberta ou fechada.",
-    "alternativas": [],
-    "resposta": "Cadeia cinética aberta são aqueles em que a parte distal fica livre, isto é, se movimenta. A parte distal nada mais é que o ponto mais afastado do tronco ou do ponto de origem -a mão, por exemplo, é a parte distal do membro superior (o braço). Cadeia cinética fechada são aqueles em que a parte distal do segmento (pés e mãos) permanecem fixos enquanto a parte proximal (coxas e braços) se movimentam. Um exemplo disso é o agachamento, em que os pés ficam apoiados e não se mexem e as coxas <b>sobem e descem</b>.",
-    "respondida": false
+    "resposta": "Cadeia cinética aberta são aqueles em que a parte distal fica livre, isto é, se movimenta. A parte distal nada mais é que o ponto mais afastado do tronco ou do ponto de origem -a mão, por exemplo, é a parte distal do membro superior (o braço). Cadeia cinética fechada são aqueles em que a parte distal do segmento (pés e mãos) permanecem fixos enquanto a parte proximal (coxas e braços) se movimentam. Um exemplo disso é o agachamento, em que os pés ficam apoiados e não se mexem e as coxas <b>sobem e descem</b>."
   },
   {
     "pergunta": "Descreva em qual plano ocorre os movimentos de flexão e extensão do tronco.",
-    "alternativas": [],
-    "resposta": "Plano sagital.",
-    "respondida": false
+    "resposta": "Plano sagital."
   },
   {
     "pergunta": "Quais regiões da coluna vertebral possuem maior grau de mobilidade?",
-    "alternativas": [],
-    "resposta": "junção cervicotorácica, toracolombar e lombossacral.",
-    "respondida": false
+    "resposta": "junção cervicotorácica, toracolombar e lombossacral."
   },
   {
     "pergunta": "Qual articulação da coluna lombar possui maior grau de mobilidade e quais movimentos são realizados nessa articulação?",
-    "alternativas": [],
-    "resposta": "Articulação lombossacral. Flexão/extensão, flexão lateral e rotação.",
-    "respondida": false
+    "resposta": "Articulação lombossacral. Flexão/extensão, flexão lateral e rotação."
   },
   {
     "pergunta": "Quais estruturas ósseas formam a articulação de maior mobilidade na coluna lombar?",
-    "alternativas": [],
-    "resposta": "Última vértebra lombar(L5) e primeira vértebra sacral (S1).",
-    "respondida": false
+    "resposta": "Última vértebra lombar(L5) e primeira vértebra sacral (S1)."
   },
   {
     "pergunta": "Realize a palpação do músculo bíceps braquial.",
-    "alternativas": [],
-    "resposta": "Não há descrição da palpação no texto.",
-    "respondida": false
+    "resposta": "Não há descrição da palpação no texto."
   },
   {
     "pergunta": "Descreva qual a musculatura mais influente na flexão de punho.",
-    "alternativas": [],
-    "resposta": "Flexor ulnar do carpo.",
-    "respondida": false
+    "resposta": "Flexor ulnar do carpo."
   },
   {
     "pergunta": "Quais movimentos do ombro são realizados no eixo ântero-posterior?",
-    "alternativas": [],
-    "resposta": "Adução e Abdução.",
-    "respondida": false
+    "resposta": "Adução e Abdução."
   },
   {
     "pergunta": "Quais músculos realizam a elevação escapular?",
-    "alternativas": [],
-    "resposta": "Trapézio(superior), rombóide e levantador da escápula.",
-    "respondida": false
+    "resposta": "Trapézio(superior), rombóide e levantador da escápula."
   },
   {
     "pergunta": "Realize a palpação da articulação acromioclavicular.",
-    "alternativas": [],
-    "resposta": "Estratégia para palpação: seguindo a face superior da clavicula em direção ao ombro percebe-se uma depressão (<b>degrau</b>), a parte elevada é a extremidade acromial da clavicula, a parte após o degrau é o acrômio, sendo a articulação acromioclavicular o local da depressão (<b>degrau</b>) (fig. 7).",
-    "respondida": false
+    "resposta": "Estratégia para palpação: seguindo a face superior da clavicula em direção ao ombro percebe-se uma depressão (<b>degrau</b>), a parte elevada é a extremidade acromial da clavicula, a parte após o degrau é o acrômio, sendo a articulação acromioclavicular o local da depressão (<b>degrau</b>) (fig. 7)."
   },
   {
     "pergunta": "Palpe o músculo tríceps braquial e descreva qual porção é mais ativa.",
-    "alternativas": [],
-    "resposta": "Porção média.",
-    "respondida": false
+    "resposta": "Porção média."
   },
   {
     "pergunta": "Descreva e localize um antagonista do músculo tríceps braquial.",
-    "alternativas": [],
-    "resposta": "Bíceps braquial ou braquial ou braquiorradial.",
-    "respondida": false
+    "resposta": "Bíceps braquial ou braquial ou braquiorradial."
   },
   {
     "pergunta": "Realize a palpação dos músculos que compõem o manguito rotador.",
-    "alternativas": [],
-    "resposta": "Para palpar os músculos do manguito rotador, localize as áreas anatômicas específicas (fossa supraespinhal, infraespinhal e borda lateral da escápula) e peça movimentos resistidos para identificar a contração de cada músculo. Abdução inicial para o supraespinhal e rotação externa para infraespinhal e redondo menor.",
-    "respondida": false
+    "resposta": "Para palpar os músculos do manguito rotador, localize as áreas anatômicas específicas (fossa supraespinhal, infraespinhal e borda lateral da escápula) e peça movimentos resistidos para identificar a contração de cada músculo. Abdução inicial para o supraespinhal e rotação externa para infraespinhal e redondo menor."
   },
   {
     "pergunta": "Descreva os principais desvios posturais anormais que podem ser encontrados na coluna vertebral.",
-    "alternativas": [],
-    "resposta": "Hiperlordose cervical, hiperlordose lombar, hipercifose torácica e escoliose.",
-    "respondida": false
+    "resposta": "Hiperlordose cervical, hiperlordose lombar, hipercifose torácica e escoliose."
   },
   {
     "pergunta": "Descreva quais são os músculos abdutores do ombro.",
-    "alternativas": [],
-    "resposta": "Supraespinhoso e fibras médias do deltóide.",
-    "respondida": false
+    "resposta": "Supraespinhoso e fibras médias do deltóide."
   },
   {
     "pergunta": "Descreva qual dos músculos flexores do cotovelo exerce exclusivamente essa ação?",
-    "alternativas": [],
-    "resposta": "Braquial.",
-    "respondida": false
+    "resposta": "Braquial."
   },
   {
     "pergunta": "Descreva dois estabilizadores estáticos do complexo articular do ombro.",
-    "alternativas": [],
-    "resposta": "cápsula, ligamentos, arquitetura articular e lábio glenoide.",
-    "respondida": false
+    "resposta": "cápsula, ligamentos, arquitetura articular e lábio glenoide."
   },
   {
     "pergunta": "Descreva dois estabilizadores dinâmicos do complexo articular do ombro.",
-    "alternativas": [],
-    "resposta": "supraespinhoso, infraespinhoso, subescapular e redondo menor.",
-    "respondida": false
+    "resposta": "supraespinhoso, infraespinhoso, subescapular e redondo menor."
   },
   {
     "pergunta": "Qual porção do deltoide realiza o movimento de flexão horizontal?",
-    "alternativas": [],
-    "resposta": "Fibras anteriores.",
-    "respondida": false
+    "resposta": "Fibras anteriores."
   },
   {
     "pergunta": "Qual porção do deltoide realiza o movimento de extensão horizontal?",
-    "alternativas": [],
-    "resposta": "Fibras posteriores.",
-    "respondida": false
+    "resposta": "Fibras posteriores."
   },
   {
     "pergunta": "Descreva quais movimentos são realizados pela articulação da cintura escapular conhecida como falsa articulação.",
-    "alternativas": [],
-    "resposta": "Art escapulotorácica: elevação, depressao, adução e abdução, rotação pra baixo e rotação para cima.",
-    "respondida": false
+    "resposta": "Art escapulotorácica: elevação, depressao, adução e abdução, rotação pra baixo e rotação para cima."
   },
   {
     "pergunta": "Qual porção da coluna vertebral articula-se com as costelas?",
-    "alternativas": [],
-    "resposta": "Torácica.",
-    "respondida": false
+    "resposta": "Torácica."
   },
   {
     "pergunta": "Descreva quais músculos extensores do tronco são responsáveis por ajustar as vértebras em movimentos de grande amplitude.",
-    "alternativas": [],
-    "resposta": "Multífidos, intertransversário e interespinal.",
-    "respondida": false
+    "resposta": "Multífidos, intertransversário e interespinal."
   },
   {
     "pergunta": "Qual dos músculos pronadores apresenta maior eficiência no movimento de pronação?",
-    "alternativas": [],
-    "resposta": "Pronador quadrado.",
-    "respondida": false
+    "resposta": "Pronador quadrado."
   },
   {
     "pergunta": "Qual ligamento do cotovelo é responsável por estabilizar as forças em varo?",
-    "alternativas": [],
-    "resposta": "Ligamento colateral radial.",
-    "respondida": false
+    "resposta": "Ligamento colateral radial."
   },
   {
     "pergunta": "Palpe a origem do ligamento colateral ulnar do cotovelo.",
-    "alternativas": [],
-    "resposta": "O ligamento colateral ulnar origina-se no epicôndilo medial.",
-    "respondida": false
+    "resposta": "O ligamento colateral ulnar origina-se no epicôndilo medial."
   },
   {
     "pergunta": "Palpe a origem do ligamento colateral radial do cotovelo.",
-    "alternativas": [],
-    "resposta": "Origina-se no epicôndilo lateral.",
-    "respondida": false
+    "resposta": "Origina-se no epicôndilo lateral."
   },
   {
     "pergunta": "O que ocorre com o disco intervertebral e os processos espinhosos durante o movimento de flexão de tronco?",
-    "alternativas": [],
-    "resposta": "Disco se desloca posteriormente e processos espinhosos se afastam.",
-    "respondida": false
+    "resposta": "Disco se desloca posteriormente e processos espinhosos se afastam."
   },
   {
     "pergunta": "Em qual movimento do tronco ocorre deslocamento anterior do disco intervertebral e aproximação dos processos espinhosos?",
-    "alternativas": [],
-    "resposta": "Hiperextensão de tronco.",
-    "respondida": false
+    "resposta": "Hiperextensão de tronco."
   },
   {
     "pergunta": "Realize a palpação das três porções do músculo trapézio.",
-    "alternativas": [],
-    "resposta": "Para palpar as três porções do trapézio, localize a porção superior entre o pescoço e ombro durante a elevação dos ombros, a porção média entre a escápula e a coluna durante a adução das escápulas, e a porção inferior abaixo da escápula durante a depressão ou rotação da escápula para cima e para baixo.",
-    "respondida": false
+    "resposta": "Para palpar as três porções do trapézio, localize a porção superior entre o pescoço e ombro durante a elevação dos ombros, a porção média entre a escápula e a coluna durante a adução das escápulas, e a porção inferior abaixo da escápula durante a depressão ou rotação da escápula para cima e para baixo."
   },
   {
     "pergunta": "Realize a palpação da porção do trapézio responsável pela elevação da cintura escapular.",
-    "alternativas": [],
-    "resposta": "Fibras superiores.",
-    "respondida": false
+    "resposta": "Fibras superiores."
   },
   {
     "pergunta": "Localize a porção do deltoide responsável pelo movimento de rotação interna do ombro.",
-    "alternativas": [],
-    "resposta": "Deltóide anterior.",
-    "respondida": false
+    "resposta": "Deltóide anterior."
   },
   {
     "pergunta": "Realize a palpação dos músculos que realizam a rotação externa do ombro em abdução.",
-    "alternativas": [],
-    "resposta": "Infraespinhoso e redondo menor.",
-    "respondida": false
+    "resposta": "Infraespinhoso e redondo menor."
   },
   {
     "pergunta": "Quais movimentos do ombro são realizados no eixo transverso?",
-    "alternativas": [],
-    "resposta": "Flexão e Extensão.",
-    "respondida": false
+    "resposta": "Flexão e Extensão."
   },
   {
     "pergunta": "Quais músculos compõem a articulação escapulotorácica?",
-    "alternativas": [],
-    "resposta": "Serrátil anterior e subescapular.",
-    "respondida": false
+    "resposta": "Serrátil anterior e subescapular."
   },
   {
     "pergunta": "Cite dois estabilizadores dinâmicos da articulação do quadril",
-    "alternativas": [],
-    "resposta": "piriforme obturador externo glúteo médio glúteo mínimo",
-    "respondida": false
+    "resposta": "piriforme obturador externo glúteo médio glúteo mínimo"
   },
   {
     "pergunta": "Realize a palpação das musculaturas responsáveis pela flexão do joelho e extensão do quadril.",
-    "alternativas": [],
-    "resposta": "Palpar isquiotibiais",
-    "respondida": false
+    "resposta": "Palpar isquiotibiais"
   },
   {
     "pergunta": "Descreva a angulação dos movimentos de rotação interna e rotação externa do quadril.",
-    "alternativas": [],
-    "resposta": "Rotação interna: 45°. Rotação externa: 50°.",
-    "respondida": false
+    "resposta": "Rotação interna: 45°. Rotação externa: 50°."
   },
   {
     "pergunta": "Descreva a musculatura enfraquecida em casos de marcha Trendenleburg e para qual lado ocorre a queda da pelve.",
-    "alternativas": [],
-    "resposta": "Glúteo médio. A queda da pelve ocorre no lado contralateral ao membro afetado (membro na fase de apoio).",
-    "respondida": false
+    "resposta": "Glúteo médio. A queda da pelve ocorre no lado contralateral ao membro afetado (membro na fase de apoio)."
   },
   {
     "pergunta": "Realize a palpação do trocanter maior do fêmur.",
-    "alternativas": [],
-    "resposta": "Se estiver com dificuldade de localizar, peça para o paciente fazer rotação do quadril (interna e externa).",
-    "respondida": false
+    "resposta": "Se estiver com dificuldade de localizar, peça para o paciente fazer rotação do quadril (interna e externa)."
   },
   {
     "pergunta": "Descreva e palpe o ligamento que costuma ser mais lesado nos entorses em inversão.",
-    "alternativas": [],
-    "resposta": "Ligamento talofibular anterior (paciente em decúbito dorsal, quadril com rotação medial, terapeuta desliza o dedo indicador a partir da borda anterior do maléolo lateral e encontrará uma depressão que é preenchida por esse ligamento.",
-    "respondida": false
+    "resposta": "Ligamento talofibular anterior (paciente em decúbito dorsal, quadril com rotação medial, terapeuta desliza o dedo indicador a partir da borda anterior do maléolo lateral e encontrará uma depressão que é preenchida por esse ligamento."
   },
   {
     "pergunta": "Descreva qual ligamento do joelho é responsável por limitar o valgismo excessivo.",
-    "alternativas": [],
-    "resposta": "Ligamento colateral medial.",
-    "respondida": false
+    "resposta": "Ligamento colateral medial."
   },
   {
     "pergunta": "Quais as principais articulações presentes no tornozelo?",
-    "alternativas": [],
-    "resposta": "Articulação talocrural, subtalar e transversa do tarso.",
-    "respondida": false
+    "resposta": "Articulação talocrural, subtalar e transversa do tarso."
   },
   {
     "pergunta": "Descreva em qual porção da perna estão presente os músculos flexores plantares.",
-    "alternativas": [],
-    "resposta": "Porção posterior.",
-    "respondida": false
+    "resposta": "Porção posterior."
   },
   {
     "pergunta": "Sobre os ligamentos do quadril: descreva qual ligamento é responsável pela sustentação do corpo na postura ereta.",
-    "alternativas": [],
-    "resposta": "Ligamento iliofemoral.",
-    "respondida": false
+    "resposta": "Ligamento iliofemoral."
   },
   {
     "pergunta": "Descreva qual a diferença entre o movimento de flexão de quadril com o joelho estendido e com o joelho fletido.",
-    "alternativas": [],
-    "resposta": "Amplitude maior com o joelho fletido (devido a ação concêntrica isolada no quadril).",
-    "respondida": false
+    "resposta": "Amplitude maior com o joelho fletido (devido a ação concêntrica isolada no quadril)."
   },
   {
     "pergunta": "Identifique o principal abdutor da articulação do quadril.",
-    "alternativas": [],
-    "resposta": "Palpar glúteo médio (para palpar o glúteo médio, coloque o paciente em decúbito lateral, localize a região entre a crista ilíaca e o trocânter maior, e peça uma abdução ativa do quadril para sentir a contração muscular).",
-    "respondida": false
+    "resposta": "Palpar glúteo médio (para palpar o glúteo médio, coloque o paciente em decúbito lateral, localize a região entre a crista ilíaca e o trocânter maior, e peça uma abdução ativa do quadril para sentir a contração muscular)."
   },
   {
     "pergunta": "Realize a palpação do côndilo mais longo do sentido anteroposterior da articulação tibiofemoral.",
-    "alternativas": [],
-    "resposta": "Côndilo Medial (estrutura de formato mais arredondado).",
-    "respondida": false
+    "resposta": "Côndilo Medial (estrutura de formato mais arredondado)."
   },
   {
     "pergunta": "Identifique o côndilo mais achatado da articulação tibiofemoral.",
-    "alternativas": [],
-    "resposta": "Côndilo Lateral.",
-    "respondida": false
+    "resposta": "Côndilo Lateral."
   },
   {
     "pergunta": "Descreva quais estruturas estão presentes em cada região do pé.",
-    "alternativas": [],
-    "resposta": "Antepé: falanges e metatarsos. Mediopé: ossos navicular, cubóide e cuneiformes medial, intermédio e lateral. Retropé: ossos tálus e calcâneo.",
-    "respondida": false
+    "resposta": "Antepé: falanges e metatarsos. Mediopé: ossos navicular, cubóide e cuneiformes medial, intermédio e lateral. Retropé: ossos tálus e calcâneo."
   },
   {
     "pergunta": "Em qual articulação ocorre o movimento de flexão plantar e dorsiflexão?",
-    "alternativas": [],
-    "resposta": "Talocrural",
-    "respondida": false
+    "resposta": "Talocrural"
   },
   {
     "pergunta": "Descreva a angulação dos movimentos de dorsiflexão e flexão plantar.",
-    "alternativas": [],
-    "resposta": "Dorsiflexão: 20°. Flexão Plantar: 50°",
-    "respondida": false
+    "resposta": "Dorsiflexão: 20°. Flexão Plantar: 50°"
   },
   {
     "pergunta": "Descreva o que ocorre com os arcos plantares em casos de \"pé cavo\".",
-    "alternativas": [],
-    "resposta": "Aumento excessivo do arco plantar.",
-    "respondida": false
+    "resposta": "Aumento excessivo do arco plantar."
   },
   {
     "pergunta": "Sobre o ângulo de inclinação da cabeça do fêmur, responda: O que ocorre, funcionalmente, em casos de aumento do ângulo acima de 125°?",
-    "alternativas": [],
-    "resposta": "Ocorre redução da eficácia dos abdutores.",
-    "respondida": false
+    "resposta": "Ocorre redução da eficácia dos abdutores."
   },
   {
     "pergunta": "Sobre o ângulo de inclinação da cabeça do fêmur, responda: O que ocorre, funcionalmente, em casos de diminuição do ângulo abaixo de 125°?",
-    "alternativas": [],
-    "resposta": "Aumento da eficácia dos abdutores e menor sobrecarga articular, já que o músculo tá trabalhando mais.",
-    "respondida": false
+    "resposta": "Aumento da eficácia dos abdutores e menor sobrecarga articular, já que o músculo tá trabalhando mais."
   },
   {
     "pergunta": "O que ocorre em casos de aumento do ângulo do colo do fêmur ou ângulo de anteversão?",
-    "alternativas": [],
-    "resposta": "Aumenta a curvatura lombar, o contato articular do quadril e o ângulo Q.",
-    "respondida": false
+    "resposta": "Aumenta a curvatura lombar, o contato articular do quadril e o ângulo Q."
   },
   {
     "pergunta": "Em qual eixo ocorre os movimentos de rotação interna e externa do quadril?",
-    "alternativas": [],
-    "resposta": "Eixo longitudinal.",
-    "respondida": false
+    "resposta": "Eixo longitudinal."
   },
   {
     "pergunta": "Realize a palpação da estrutura responsável por aumentar a vantagem mecânica do músculo quadríceps femoral.",
-    "alternativas": [],
-    "resposta": "Patela (Para palpar a patela, coloque o paciente em decúbito dorsal com o joelho estendido, localize o osso na frente do joelho, deslize os dedos ao longo de suas bordas superiores, inferiores e laterais, verificando mobilidade).",
-    "respondida": false
+    "resposta": "Patela (Para palpar a patela, coloque o paciente em decúbito dorsal com o joelho estendido, localize o osso na frente do joelho, deslize os dedos ao longo de suas bordas superiores, inferiores e laterais, verificando mobilidade)."
   },
   {
     "pergunta": "Descreva quais ligamentos compõem o ligamento deltoide do tornozelo.",
-    "alternativas": [],
-    "resposta": "Tibiotalar anterior e posterior e calcaneotibial",
-    "respondida": false
+    "resposta": "Tibiotalar anterior e posterior e calcaneotibial"
   },
   {
     "pergunta": "Em qual plano ocorre os movimentos de eversão e inversão do tornozelo?",
-    "alternativas": [],
-    "resposta": "Frontal.",
-    "respondida": false
+    "resposta": "Frontal."
   },
   {
     "pergunta": "Cite dois músculos responsáveis pelo movimento de inversão do tornozelo.",
-    "alternativas": [],
-    "resposta": "Tibial anterior e posterior/Extensor longo do hálux e flexor longo do hálux.",
-    "respondida": false
+    "resposta": "Tibial anterior e posterior/Extensor longo do hálux e flexor longo do hálux."
   },
   {
     "pergunta": "Descreva e realize a palpação da musculatura principal da extensão do joelho.",
-    "alternativas": [],
-    "resposta": "Palpar quadríceps femoral e suas porções (Reto Femoral, Vasto Lateral, Vasto Medial e Vasto Intermédio).",
-    "respondida": false
+    "resposta": "Palpar quadríceps femoral e suas porções (Reto Femoral, Vasto Lateral, Vasto Medial e Vasto Intermédio)."
   },
   {
     "pergunta": "Localize a inserção em comum dos músculos que compõem o quadríceps femoral.",
-    "alternativas": [],
-    "resposta": "Tuberosidade da tíbia e patela.",
-    "respondida": false
+    "resposta": "Tuberosidade da tíbia e patela."
   },
   {
     "pergunta": "Realize a palpação da espinha ilíaca ântero-superior.",
-    "alternativas": [],
-    "resposta": "Não há descrição detalhada da palpação no texto.",
-    "respondida": false
+    "resposta": "Não há descrição detalhada da palpação no texto."
   },
   {
     "pergunta": "Descreva dois estabilizadores estáticos da articulação do quadril.",
-    "alternativas": [],
-    "resposta": "Lábio do acetábulo, pressão atmosférica, grande área de contato e estabilidade em cadeia cinética fechada.",
-    "respondida": false
+    "resposta": "Lábio do acetábulo, pressão atmosférica, grande área de contato e estabilidade em cadeia cinética fechada."
   },
   {
     "pergunta": "Realize e descreva os movimentos limitados pelo ligamento isquiofemoral do quadril.",
-    "alternativas": [],
-    "resposta": "Demonstrar movimento de adução, extensão e rotação interna.",
-    "respondida": false
+    "resposta": "Demonstrar movimento de adução, extensão e rotação interna."
   },
   {
     "pergunta": "Os movimentos de rotação do quadril contam com a participação dos músculos glúteo máximo, médio e mínimo. Descreva a participação de cada um em cada tipo de rotação realizada pela articulação do quadril.",
-    "alternativas": [],
-    "resposta": "Rotação interna: médio e mínimo. Rotação externa: glúteo máximo.",
-    "respondida": false
+    "resposta": "Rotação interna: médio e mínimo. Rotação externa: glúteo máximo."
   },
   {
     "pergunta": "Qual ligamento do joelho é responsável por limitar a translação posterior da tíbia sob o fêmur?",
-    "alternativas": [],
-    "resposta": "Ligamento cruzado posterior.",
-    "respondida": false
+    "resposta": "Ligamento cruzado posterior."
   },
   {
     "pergunta": "Localize os pontos anatômicos principais utilizados na obtenção do Ângulo Q do joelho.",
-    "alternativas": [],
-    "resposta": "EIAS, patela e tuberosidade da tíbia.",
-    "respondida": false
+    "resposta": "EIAS, patela e tuberosidade da tíbia."
   },
   {
     "pergunta": "Quais músculos são responsáveis pela rotação medial que ocorre no joelho?",
-    "alternativas": [],
-    "resposta": "Semimembranoso, semitendinoso e poplíteo.",
-    "respondida": false
+    "resposta": "Semimembranoso, semitendinoso e poplíteo."
   },
   {
     "pergunta": "Em qual posicionamento do quadril, pode haver aumento da angulação dos movimentos de rotação interna e externa?",
-    "alternativas": [],
-    "resposta": "Flexão de quadril.",
-    "respondida": false
+    "resposta": "Flexão de quadril."
   },
   {
     "pergunta": "Descreva e localize o músculo mais potente da flexão de quadril que também auxilia na rotação externa.",
-    "alternativas": [],
-    "resposta": "Iliopsoas",
-    "respondida": false
+    "resposta": "Iliopsoas"
   },
   {
     "pergunta": "Descreva quais são os principais ligamentos da articulação sacroilíaca.",
-    "alternativas": [],
-    "resposta": "Ligamento sacroiliaco anterior, Ligamento iliolombar, Ligamento sacrolombar, Ligamento sacrotuberal, Ligamento púbico anterior, Ligamento sacroespinal, Ligamento sacrococcigeo anterior.",
-    "respondida": false
+    "resposta": "Ligamento sacroiliaco anterior, Ligamento iliolombar, Ligamento sacrolombar, Ligamento sacrotuberal, Ligamento púbico anterior, Ligamento sacroespinal, Ligamento sacrococcigeo anterior."
   },
   {
     "pergunta": "Localize o músculo localizado no compartimento anterior da perna responsável pela dorsiflexão do tornozelos.",
-    "alternativas": [],
-    "resposta": "Palpar tibial anterior.",
-    "respondida": false
+    "resposta": "Palpar tibial anterior."
   },
   {
     "pergunta": "Descreva quais movimentos compõem o movimento triplanar de pronação do pé.",
-    "alternativas": [],
-    "resposta": "Eversão, adução e dorsiflexão.",
-    "respondida": false
+    "resposta": "Eversão, adução e dorsiflexão."
   },
   {
     "pergunta": "Descreva quais movimentos compõem o movimento triplanar de supinação do pé.",
-    "alternativas": [],
-    "resposta": "Inversão, adução e flexão plantar.",
-    "respondida": false
+    "resposta": "Inversão, adução e flexão plantar."
   },
   {
     "pergunta": "Cite os músculos que atuam no movimento de anteversão da pelve.",
-    "alternativas": [],
-    "resposta": "Reto femoral e eretores da espinha.",
-    "respondida": false
+    "resposta": "Reto femoral e eretores da espinha."
   },
   {
     "pergunta": "O que ocorre com o ângulo Q no joelho varo?",
-    "alternativas": [],
-    "resposta": "Ocorre diminuição do ângulo.",
-    "respondida": false
+    "resposta": "Ocorre diminuição do ângulo."
   },
   {
     "pergunta": "Descreva quais movimentos são realizados na articulação tibiofemoral.",
-    "alternativas": [],
-    "resposta": "Flexão/extensão e pequena rotação.",
-    "respondida": false
+    "resposta": "Flexão/extensão e pequena rotação."
   },
   {
     "pergunta": "Descreva e localize os ligamentos laterais do tornozelo.",
-    "alternativas": [],
-    "resposta": "Talofibular anterior e posterior e calcaneofibular.",
-    "respondida": false
+    "resposta": "Talofibular anterior e posterior e calcaneofibular."
   },
   {
     "pergunta": "Realize a palpação da proeminência óssea existente na extremidade distal da fíbula lateralmente.",
-    "alternativas": [],
-    "resposta": "Palpar maléolo lateral.",
-    "respondida": false
+    "resposta": "Palpar maléolo lateral."
   },
   {
     "pergunta": "Realize a palpação e descreva qual estrutura representa a proeminência óssea encontrada na extremidade distal da tíbia medialmente.",
-    "alternativas": [],
-    "resposta": "Palpar maléolo medial.",
-    "respondida": false
+    "resposta": "Palpar maléolo medial."
   },
   {
     "pergunta": "Quais músculos compõem o tendão de Aquiles ou tendão do calcâneo?",
-    "alternativas": [],
-    "resposta": "Gastrocnêmio e sóleo.",
-    "respondida": false
+    "resposta": "Gastrocnêmio e sóleo."
   },
   {
     "pergunta": "Realize a palpação das estruturas responsáveis por aumentar a estabilidade do joelho, absorver e transmitir cargas, além de proteger a cartilagem articular.",
-    "alternativas": [],
-    "resposta": "Palpar meniscos",
-    "respondida": false
+    "resposta": "Palpar meniscos"
   },
   {
     "pergunta": "Quais músculos são responsáveis pelo movimento de eversão?",
-    "alternativas": [],
-    "resposta": "Fibular longo, fibular curto e extensores dos dedos.",
-    "respondida": false
+    "resposta": "Fibular longo, fibular curto e extensores dos dedos."
   },
   {
     "pergunta": "Quais são os ligamentos encontrados na articulação do quadril?",
-    "alternativas": [],
-    "resposta": "Pubofemoral, iliofemoral e isquiofemoral.",
-    "respondida": false
+    "resposta": "Pubofemoral, iliofemoral e isquiofemoral."
   },
   {
     "pergunta": "Descreva o que ocorre com os arcos plantares em casos de pé plano?",
-    "alternativas": [],
-    "resposta": "Diminuição dos arcos, deixando o <b>pé chato</b>.",
-    "respondida": false
+    "resposta": "Diminuição dos arcos, deixando o <b>pé chato</b>."
   },
   {
     "pergunta": "Qual movimento que proporciona menor estabilidade para a articulação do quadril?",
-    "alternativas": [],
-    "resposta": "Flexão com adução.",
-    "respondida": false
+    "resposta": "Flexão com adução."
   },
   {
     "pergunta": "Quais músculos compõem os músculos isquiotibiais?",
-    "alternativas": [],
-    "resposta": "Biceps Femoral, semitendíneo e semimembranoso.",
-    "respondida": false
+    "resposta": "Biceps Femoral, semitendíneo e semimembranoso."
   },
   {
     "pergunta": "Quais são os três arcos plantares do pé?",
-    "alternativas": [],
-    "resposta": "Transverso, Longitudinal Medial e Longitudinal Lateral.",
-    "respondida": false
+    "resposta": "Transverso, Longitudinal Medial e Longitudinal Lateral."
   },
   {
     "pergunta": "Dentre os movimentos de inversão e eversão, qual possui a menor amplitude de movimento?",
-    "alternativas": [],
-    "resposta": "Eversão (4 a 5°).",
-    "respondida": false
+    "resposta": "Eversão (4 a 5°)."
   },
   {
     "pergunta": "Onde se origina o ligamento colateral medial?",
-    "alternativas": [],
-    "resposta": "Epicôndilo medial do joelho.",
-    "respondida": false
+    "resposta": "Epicôndilo medial do joelho."
   },
   {
     "pergunta": "Quais ligamentos formam o complexo do joelho?",
-    "alternativas": [],
-    "resposta": "Colateral medial e lateral, cruzado anterior e posterior.",
-    "respondida": false
+    "resposta": "Colateral medial e lateral, cruzado anterior e posterior."
   },
   {
     "pergunta": "Descreva os músculos responsáveis pelo movimento de eversão do pé?",
-    "alternativas": [],
-    "resposta": "Fibular longo e curto e extensores dos dedos.",
-    "respondida": false
+    "resposta": "Fibular longo e curto e extensores dos dedos."
   },
   {
     "pergunta": "Quais músculos são responsáveis pela estabilização da pelve?",
-    "alternativas": [],
-    "resposta": "Músculos extensores do quadril: glúteo máximo e isquiotibiais.",
-    "respondida": false
+    "resposta": "Músculos extensores do quadril: glúteo máximo e isquiotibiais."
   },
   {
     "pergunta": "Quais são as principais fases da marcha?",
-    "alternativas": [],
-    "resposta": "As principais fases são: Fase de apoio unipodal e duplo (Contato inicial, Resposta à carga, Médio apoio, Apoio terminal e Retirada dos dedos) e Fase de balanço (Balanço inicial, Balanço médio e Balanço terminal).",
-    "respondida": false
+    "resposta": "As principais fases são: Fase de apoio unipodal e duplo (Contato inicial, Resposta à carga, Médio apoio, Apoio terminal e Retirada dos dedos) e Fase de balanço (Balanço inicial, Balanço médio e Balanço terminal)."
   },
   {
-    "pergunta": "O que é o \"passo\" na marcha?",
-    "alternativas": [],
-    "resposta": "O <b>passo</b> é a distância percorrida entre o calcanhar de um pé e o calcanhar do outro pé durante a marcha.",
-    "respondida": false
+    "pergunta": "O que é o <b>passo</b> na marcha?",
+    "resposta": "O <b>passo</b> é a distância percorrida entre o calcanhar de um pé e o calcanhar do outro pé durante a marcha."
   },
   {
     "pergunta": "O que é a \"passada na marcha\"?",
-    "alternativas": [],
-    "resposta": "A <b>passada</b> é a distância percorrida entre o calcanhar de um pé e o calcanhar do mesmo pé quando ele toca o solo novamente.",
-    "respondida": false
+    "resposta": "A <b>passada</b> é a distância percorrida entre o calcanhar de um pé e o calcanhar do mesmo pé quando ele toca o solo novamente."
   },
   {
     "pergunta": "Em qual fase da marcha ocorre a maior instabilidade e por quê?",
-    "alternativas": [],
-    "resposta": "Ocorre na fase de apoio unipodal, que acontece quando um único pé está em contato com o solo e o corpo é sustentado por ele.",
-    "respondida": false
-  }
+    "resposta": "Ocorre na fase de apoio unipodal, que acontece quando um único pé está em contato com o solo e o corpo é sustentado por ele."}
 ]
